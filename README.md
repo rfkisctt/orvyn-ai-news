@@ -21,7 +21,7 @@ A modern Discord bot that tracks AI news, model launches, updates, research, and
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/rfkisctt/orvyn-ai-news-bot.git
+git clone https://github.com/rfkisctt/orvyn-ai-news.git
 cd orvyn-ai-news-bot
 ```
 
