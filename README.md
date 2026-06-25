@@ -22,7 +22,7 @@ A modern Discord bot that tracks AI news, model launches, updates, research, and
 
 ```bash
 git clone https://github.com/rfkisctt/orvyn-ai-news.git
-cd orvyn-ai-news-bot
+cd orvyn-ai-news
 ```
 
 ### 2. Create virtual environment
